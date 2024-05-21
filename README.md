@@ -1,6 +1,6 @@
 # Tinnitus-Research
 
-**Author:** Akua Sekyiwaa Osei-Nkwantabisa   
+**Author:** Akua  Sekyiwaa Osei-Nkwantabisa   
 **Date:** 2024-03-02
 
 ## Overview
