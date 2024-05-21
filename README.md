@@ -1,7 +1,6 @@
 # Tinnitus-Research
 
-**Author:** Akua Sekyiwaa Osei-Nkwantabisa  
-**Student ID:** 20674356  
+**Author:** Akua Sekyiwaa Osei-Nkwantabisa   
 **Date:** 2024-03-02
 
 ## Overview
